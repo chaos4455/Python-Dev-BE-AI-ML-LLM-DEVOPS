@@ -2,11 +2,6 @@
 
 Um repositório completo e diversificado que engloba uma série de projetos voltados para **Desenvolvimento Backend (BE)**, **Inteligência Artificial (AI)**, **Aprendizado de Máquina (ML)**, **Modelos de Linguagem (LLM)** e **Práticas DevOps**. Aqui, você encontrará uma coleção de scripts, ferramentas e soluções que demonstram a aplicação prática de conceitos avançados de tecnologia, alinhados com as melhores práticas do mercado. 
 
-[![GitHub stars](https://img.shields.io/github/stars/seu-repositorio?style=flat&logo=github&color=yellow)](https://github.com/seu-repositorio/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/seu-repositorio?style=flat&logo=github&color=lightblue)](https://github.com/seu-repositorio/network)
-[![GitHub issues](https://img.shields.io/github/issues/seu-repositorio?style=flat&logo=github&color=orange)](https://github.com/seu-repositorio/issues)
-[![GitHub license](https://img.shields.io/github/license/seu-repositorio?style=flat&logo=github&color=green)](https://github.com/seu-repositorio/blob/main/LICENSE)
-
 ---
 
 ## 🎯 **Principais Destaques**:
@@ -47,7 +42,7 @@ Um repositório completo e diversificado que engloba uma série de projetos volt
 
 ---
 
-## 🧰 **Ferramentas e Tecnologias Utilizadas**:
+## 🧰 **Ferramentas e Tecnologias da minha stack maioria entre 10-8 anos e as mais recentes **:
 
 - **Linguagens de Programação**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white), ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white), ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)
 
@@ -73,7 +68,7 @@ Um repositório completo e diversificado que engloba uma série de projetos volt
 
 - **Data Analysis**: ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white), ![NumPy](https://img.shields.io/badge/-NumPy-013C3B?logo=numpy&logoColor=white)
 
-- **Ferramentas de Desenvolvimento**: ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white), ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white)
+- **Ferramentas de Desenvolvimento**: ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white)
 
 - **Databases**: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white), ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white), ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white), ![Firebird](https://img.shields.io/badge/-Firebird-1D2D5A?logo=firebird&logoColor=white), ![Qdrant](https://img.shields.io/badge/-Qdrant-4D5B79?logo=qdrant&logoColor=white)
 
