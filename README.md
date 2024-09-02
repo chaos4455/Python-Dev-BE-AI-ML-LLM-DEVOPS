@@ -33,7 +33,7 @@ Para projetos específicos relacionados a Python, visite o repositório [Projeto
 
 ## Sobre Este Repositório
 
-Bem-vindo ao meu repositório **Python-Dev-BE-AI-ML-LLM-DEVOPS**! Este espaço é uma vitrine do meu percurso profissional e das minhas habilidades como desenvolvedor backend, destacando meus conhecimentos em **Desenvolvimento Backend (BE)**, **Inteligência Artificial (AI)**, **Aprendizado de Máquina (ML)**, **Modelos de Linguagem (LLM)** e **Práticas DevOps**. 
+Bem-vindo ao meu repositório! Este espaço é uma vitrine do meu percurso profissional e das minhas habilidades como desenvolvedor backend, destacando meus conhecimentos em **Desenvolvimento Backend (BE)**, **Inteligência Artificial (AI)**, **Aprendizado de Máquina (ML)**, **Modelos de Linguagem (LLM)** e **Práticas DevOps**. 
 
 ### Minha Jornada
 
@@ -44,8 +44,6 @@ Com **14 anos de experiência em TI**, incluindo suporte e infraestrutura, traba
 ### Propósito do Repositório
 
 O objetivo deste repositório é demonstrar minha jornada como um desenvolvedor backend pleno, com **8 anos de experiência prática em projetos Python**. Aqui, você encontrará uma coleção rica e diversificada de scripts, ferramentas e soluções que refletem minha abordagem proativa e autodidata para resolver problemas e implementar soluções tecnológicas. 
-
-O **Python-Dev-BE-AI-ML-LLM-DEVOPS** é projetado para:
 
 - **Mostrar minhas habilidades e conhecimentos técnicos**: Cada projeto é uma prova do que posso realizar, abrangendo desde a criação de sistemas robustos e escaláveis até a aplicação de técnicas avançadas em inteligência artificial e aprendizado de máquina.
 
