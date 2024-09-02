@@ -51,9 +51,15 @@ Um repositório completo e diversificado que engloba uma série de projetos volt
 
 - **Linguagens de Programação**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white), ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white), ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)
 
-- **Frameworks de Backend**: ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+- **Frameworks e Bibliotecas de Backend**: ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white), ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 
-- **DevOps e Containers**: ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white), ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white), ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white), ![ArgoCD](https://img.shields.io/badge/-ArgoCD-3C3C3C?logo=argo&logoColor=white), ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white), ![GitOps](https://img.shields.io/badge/-GitOps-6CC644?logo=git&logoColor=white), ![CI/CD](https://img.shields.io/badge/-CI%2FCD-00A86B?logo=ci-cd&logoColor=white)
+- **DevOps e Containers**:
+  - **CI/CD e Pipeline**: ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white), ![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FCA121?logo=gitlab&logoColor=white), ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
+  - **Automação e Infraestrutura**: ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white), ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white), ![ArgoCD](https://img.shields.io/badge/-ArgoCD-3C3C3C?logo=argo&logoColor=white)
+  - **Orquestração de Containers**: ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white), ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+  - **Empacotamento e Imagens**: ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+
+- **Arquitetura de Microserviços**: ![Service Mesh](https://img.shields.io/badge/-Service_Mesh-5C5C5C?logo=service-mesh&logoColor=white), ![API Gateway](https://img.shields.io/badge/-API_Gateway-00BFAE?logo=api-gateway&logoColor=white)
 
 - **Machine Learning e AI**: ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white), ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white), ![Google Gemini](https://img.shields.io/badge/-Google_Gemini-4285F4?logo=google&logoColor=white), ![LLaMA](https://img.shields.io/badge/-LLaMA-000000?logo=llama&logoColor=white), ![ChatGPT](https://img.shields.io/badge/-ChatGPT-000000?logo=openai&logoColor=white)
 
@@ -69,11 +75,12 @@ Um repositório completo e diversificado que engloba uma série de projetos volt
 
 - **Ferramentas de Desenvolvimento**: ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white), ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white)
 
-- **Databases**: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white), ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white), ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white), ![Firebird](https://img.shields.io/badge/-Firebird-1D2D5A?logo=firebird&logoColor=white)
+- **Databases**: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white), ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white), ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white), ![Firebird](https://img.shields.io/badge/-Firebird-1D2D5A?logo=firebird&logoColor=white), ![Qdrant](https://img.shields.io/badge/-Qdrant-4D5B79?logo=qdrant&logoColor=white)
 
 - **Serviços de Cloud**: ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=googlecloud&logoColor=white), ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white), ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)
 
-- **Outras Tecnologias**: ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white), ![Llama3](https://img.shields.io/badge/-Llama3-000000?logo=llama&logoColor=white), ![ChatGPT-4](https://img.shields.io/badge/-ChatGPT-4-000000?logo=openai&logoColor=white)
+- **Outras Tecnologias**: ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white), ![Llama3](https://img.shields.io/badge/-Llama3-000000?logo=llama&logoColor=white),
+
 
 ---
 
