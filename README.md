@@ -29,6 +29,40 @@ Meu objetivo é fornecer um portfólio que não apenas exiba minhas habilidades 
 Sinta-se à vontade para explorar os projetos, testar as soluções e entrar em contato para discutir possíveis colaborações e oportunidades!
 
 ---
+Acesse meus projetos em seus repositórios específicos:
+
+# 🐍 Repositório de Projetos Python - `Python-Dev-BE-AI-ML-LLM-DEVOPS` 🚀
+
+Bem-vindo ao repositório `Python-Dev-BE-AI-ML-LLM-DEVOPS`! Este repositório é um espaço dedicado ao desenvolvimento e à demonstração das minhas habilidades em Python, arquitetura de soluções, aprendizado de máquina (ML), e práticas DevOps. Aqui, você encontrará uma coleção de projetos diversos que refletem minha experiência e paixão por tecnologias avançadas.
+
+## 🌟 Destaques do Repositório
+
+- **Desenvolvimento Backend**: Projetos focados em APIs, arquitetura de sistemas e soluções backend com Python.
+- **Inteligência Artificial & Machine Learning**: Implementações e experimentos com modelos de ML e técnicas avançadas de IA.
+- **Modelos de Linguagem (LLM)**: Trabalho com modelos de linguagem para geração e análise de texto.
+- **Práticas DevOps**: Automação, integração contínua e entrega contínua com ferramentas modernas.
+
+## 📂 Projetos Específicos
+
+Para projetos específicos relacionados a Python, visite o repositório [Projetos-DEV](https://github.com/chaos4455/Projetos-DEV) 🌐. Este repositório inclui exemplos de:
+
+- 🛠️ Ferramentas e scripts para automação.
+- 📊 Análise e manipulação de dados.
+- 🌐 Aplicações web e serviços backend.
+- 🤖 Implementações de modelos de IA e ML.
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Python** 🐍
+- **Flask** 🧪
+- **TensorFlow** 🧠
+- **PyTorch** 🔥
+- **Docker** 🐳
+- **Kubernetes** ☸️
+
+## 🚀 Começando
+
+Para começar a explorar os projetos, clone este repositório e siga as instruções no README de cada projeto específico. Se você deseja contribuir ou colaborar, sinta-se à vontade para abrir uma issue ou enviar um pull request!
 
 ## 🔗 **Conecte-se Comigo**:
 
