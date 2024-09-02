@@ -42,7 +42,7 @@ Um repositório completo e diversificado que engloba uma série de projetos volt
 
 ---
 
-## 🧰 **Ferramentas e Tecnologias da minha stack maioria entre 10-8 anos e as mais recentes **:
+## 🧰 **Ferramentas e Tecnologias da minha stack maioria entre 10-8 anos(infra, linux, windows, bash, python) e as mais recentes de 4 a 2 anos (tecnologias mais recentes a chegar no mercado, ia, bancos vetoriais, etc.**
 
 - **Linguagens de Programação**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white), ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white), ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)
 
