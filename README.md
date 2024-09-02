@@ -21,7 +21,7 @@ Para projetos específicos relacionados a Python, visite o repositório [Projeto
 - **Python** 🐍
 - **Flask** 🧪
 - **TensorFlow** 🧠
-- **PyTorch** 🔥
+- **Keras** 🔥
 - **Docker** 🐳
 - **Kubernetes** ☸️
 
