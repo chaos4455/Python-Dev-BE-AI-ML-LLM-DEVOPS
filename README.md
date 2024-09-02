@@ -49,11 +49,31 @@ Um repositório completo e diversificado que engloba uma série de projetos volt
 
 ## 🧰 **Ferramentas e Tecnologias Utilizadas**:
 
-- **Linguagens de Programação**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
-- **Frameworks de Backend**: ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white), ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-- **DevOps e Containers**: ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white), ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white), ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white)
-- **Machine Learning e AI**: ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white), ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-- **Monitoramento e Observabilidade**: ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white), ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
+- **Linguagens de Programação**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white), ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white), ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)
+
+- **Frameworks de Backend**: ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+
+- **DevOps e Containers**: ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white), ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white), ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white), ![ArgoCD](https://img.shields.io/badge/-ArgoCD-3C3C3C?logo=argo&logoColor=white), ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white), ![GitOps](https://img.shields.io/badge/-GitOps-6CC644?logo=git&logoColor=white), ![CI/CD](https://img.shields.io/badge/-CI%2FCD-00A86B?logo=ci-cd&logoColor=white)
+
+- **Machine Learning e AI**: ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white), ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white), ![Google Gemini](https://img.shields.io/badge/-Google_Gemini-4285F4?logo=google&logoColor=white), ![LLaMA](https://img.shields.io/badge/-LLaMA-000000?logo=llama&logoColor=white), ![ChatGPT](https://img.shields.io/badge/-ChatGPT-000000?logo=openai&logoColor=white)
+
+- **Monitoramento e Observabilidade**: ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white), ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white), ![Zabbix](https://img.shields.io/badge/-Zabbix-1E6F8E?logo=zabbix&logoColor=white)
+
+- **Infraestrutura e Administração de Redes**: ![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white), ![Hyper-V](https://img.shields.io/badge/-Hyper_V-0094D6?logo=microsoft&logoColor=white), ![Digital Ocean](https://img.shields.io/badge/-Digital_Ocean-0080FF?logo=digitalocean&logoColor=white), ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=googlecloud&logoColor=white), ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white), ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)
+
+- **Segurança da Informação**: ![ISO 27001](https://img.shields.io/badge/-ISO_27001-004B87?logo=iso&logoColor=white), ![Firewalls](https://img.shields.io/badge/-Firewalls-000000?logo=firewalls&logoColor=white)
+
+- **Automação e Scripts**: ![CI/CD](https://img.shields.io/badge/-CI%2FCD-00A86B?logo=ci-cd&logoColor=white), ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white), ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white)
+
+- **Data Analysis**: ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white), ![NumPy](https://img.shields.io/badge/-NumPy-013C3B?logo=numpy&logoColor=white)
+
+- **Ferramentas de Desenvolvimento**: ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white), ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white)
+
+- **Databases**: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white), ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white), ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white), ![Firebird](https://img.shields.io/badge/-Firebird-1D2D5A?logo=firebird&logoColor=white)
+
+- **Serviços de Cloud**: ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=googlecloud&logoColor=white), ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white), ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)
+
+- **Outras Tecnologias**: ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white), ![Llama3](https://img.shields.io/badge/-Llama3-000000?logo=llama&logoColor=white), ![ChatGPT-4](https://img.shields.io/badge/-ChatGPT-4-000000?logo=openai&logoColor=white)
 
 ---
 
