@@ -46,8 +46,24 @@ Um repositório completo e diversificado que engloba uma série de projetos volt
 
 - **Linguagens de Programação**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white), ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white), ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)
 
-- **Frameworks e Bibliotecas de Backend**: ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white), ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+- **Frameworks e Bibliotecas de Backend**: ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white),
 
+- **Desenvolvimento de APIs**:
+  - ![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?logo=dotnet&logoColor=white) - Desenvolvimento de APIs com .NET, utilizando ASP.NET Core para criar APIs RESTful robustas e escaláveis.
+  - ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) - Desenvolvimento de APIs RESTful com Python, utilizando o framework Flask para criar aplicações web e serviços.
+
+- **ORM e Frameworks de Dados**:
+  - ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-8C3D65?logo=dotnet&logoColor=white) - Utilização de Entity Framework para mapeamento objeto-relacional (ORM) em .NET, facilitando o acesso e manipulação de dados em bancos relacionais.
+
+- **Manipulação e Transformação de Dados**:
+  - **Arquivos e Formatos**: Manipulação e transformação de dados em diversos formatos, incluindo:
+    - ![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white) - Manipulação e transformação de dados em JSON.
+    - ![XML](https://img.shields.io/badge/-XML-FF8C00?logo=xml&logoColor=white) - Manipulação e transformação de dados em XML.
+    - ![YAML](https://img.shields.io/badge/-YAML-4F5D95?logo=yaml&logoColor=white) - Manipulação e transformação de dados em YAML.
+    - ![PDF](https://img.shields.io/badge/-PDF-FF0000?logo=pdf&logoColor=white) - Manipulação e geração de arquivos PDF.
+    - ![TXT](https://img.shields.io/badge/-TXT-000000?logo=txt&logoColor=white) - Manipulação e leitura de arquivos TXT.
+  - **
+  - 
 - **DevOps e Containers**:
   - **CI/CD e Pipeline**: ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white), ![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FCA121?logo=gitlab&logoColor=white), ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
   - **Automação e Infraestrutura**: ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white), ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white), ![ArgoCD](https://img.shields.io/badge/-ArgoCD-3C3C3C?logo=argo&logoColor=white)
