@@ -62,8 +62,8 @@ Um repositório completo e diversificado que engloba uma série de projetos volt
     - ![YAML](https://img.shields.io/badge/-YAML-4F5D95?logo=yaml&logoColor=white) - Manipulação e transformação de dados em YAML.
     - ![PDF](https://img.shields.io/badge/-PDF-FF0000?logo=pdf&logoColor=white) - Manipulação e geração de arquivos PDF.
     - ![TXT](https://img.shields.io/badge/-TXT-000000?logo=txt&logoColor=white) - Manipulação e leitura de arquivos TXT.
-  - **
-  - 
+
+
 - **DevOps e Containers**:
   - **CI/CD e Pipeline**: ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white), ![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FCA121?logo=gitlab&logoColor=white), ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
   - **Automação e Infraestrutura**: ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white), ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white), ![ArgoCD](https://img.shields.io/badge/-ArgoCD-3C3C3C?logo=argo&logoColor=white)
@@ -73,6 +73,40 @@ Um repositório completo e diversificado que engloba uma série de projetos volt
 - **Arquitetura de Microserviços**: ![Service Mesh](https://img.shields.io/badge/-Service_Mesh-5C5C5C?logo=service-mesh&logoColor=white), ![API Gateway](https://img.shields.io/badge/-API_Gateway-00BFAE?logo=api-gateway&logoColor=white)
 
 - **Machine Learning e AI**: ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white), ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white), ![Google Gemini](https://img.shields.io/badge/-Google_Gemini-4285F4?logo=google&logoColor=white), ![LLaMA](https://img.shields.io/badge/-LLaMA-000000?logo=llama&logoColor=white), ![ChatGPT](https://img.shields.io/badge/-ChatGPT-000000?logo=openai&logoColor=white)
+
+## 🤖 **Machine Learning e Análise de Dados**
+
+- **Redes Neurais**:
+  - ![CNN](https://img.shields.io/badge/-CNN-FF6F00?logo=TensorFlow&logoColor=white) - Redes Neurais Convolucionais para processamento e análise de imagens.
+  - ![DNN](https://img.shields.io/badge/-DNN-FF6F00?logo=TensorFlow&logoColor=white) - Redes Neurais Profundas para modelagem complexa e aprendizado não-linear.
+  - ![RNN](https://img.shields.io/badge/-RNN-FF6F00?logo=TensorFlow&logoColor=white) - Redes Neurais Recorrentes para modelagem de sequências e dados temporais.
+
+- **Frameworks e Bibliotecas**:
+  - ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) - Framework para construção e treinamento de modelos de Machine Learning e Deep Learning.
+  - ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white) - API de alto nível para criação e treinamento de redes neurais em TensorFlow.
+  - ![Coco](https://img.shields.io/badge/-COCO-005C5C?logo=coco&logoColor=white) - Dataset para tarefas de detecção e segmentação de objetos.
+  - ![MobileNet](https://img.shields.io/badge/-MobileNet-0081C2?logo=TensorFlow&logoColor=white) - Modelo eficiente para detecção e classificação de imagens em dispositivos móveis.
+
+- **Análise Estatística e Previsão**:
+  - ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) - Biblioteca para análise de dados e manipulação de DataFrames.
+  - ![NumPy](https://img.shields.io/badge/-NumPy-013C3B?logo=numpy&logoColor=white) - Biblioteca para computação numérica e operações com arrays.
+  - ![Statistical Analysis](https://img.shields.io/badge/-Statistical_Analysis-2E8B57?logo=python&logoColor=white) - Técnicas para análise estatística de dados, incluindo testes de hipótese e análise de variância.
+  - ![Risk Analysis](https://img.shields.io/badge/-Risk_Analysis-FF4500?logo=python&logoColor=white) - Métodos para avaliação e mitigação de riscos em modelos e dados.
+
+- **Modelagem e Pipelines**:
+  - ![Model Training](https://img.shields.io/badge/-Model_Training-FF8C00?logo=TensorFlow&logoColor=white) - Técnicas de treinamento de modelos de Machine Learning, incluindo ajuste de hiperparâmetros e validação cruzada.
+  - ![Pipelines](https://img.shields.io/badge/-Pipelines-32CD32?logo=python&logoColor=white) - Pipelines de Machine Learning para automação de pré-processamento, treinamento e validação de modelos.
+  - ![Segmentation](https://img.shields.io/badge/-Segmentation-6A5ACD?logo=TensorFlow&logoColor=white) - Técnicas para segmentação de imagens e análise detalhada de áreas específicas.
+
+- **Análise e Predição de Tendências**:
+  - ![Trend Analysis](https://img.shields.io/badge/-Trend_Analysis-FFD700?logo=python&logoColor=white) - Métodos para identificar e prever tendências em conjuntos de dados temporais.
+  - ![Labeling](https://img.shields.io/badge/-Labeling-00CED1?logo=python&logoColor=white) - Processos para rotulagem de dados e treinamento de modelos supervisionados.
+
+- **Outras Tecnologias**:
+  - ![Qdrant](https://img.shields.io/badge/-Qdrant-2E8B57?logo=python&logoColor=white) - Banco de dados vetorial para busca e recuperação de dados baseados em similaridade.
+  - ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) - Biblioteca para visão computacional e processamento de imagens.
+
+
 
 - **Monitoramento e Observabilidade**: ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white), ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white), ![Zabbix](https://img.shields.io/badge/-Zabbix-1E6F8E?logo=zabbix&logoColor=white)
 
