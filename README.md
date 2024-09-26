@@ -25,6 +25,12 @@ Para projetos específicos relacionados a Python, visite o repositório [Projeto
 - **Docker** 🐳
 - **Kubernetes** ☸️
 
+
+## 📈 **Estatísticas no GitHub**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos4455&layout=compact&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaos4455&show_icons=true&theme=dark)
+
 ## 🔗 **Conecte-se Comigo**:
 
 [![GitHub](https://img.shields.io/badge/GitHub-Elias%20Andrade-181717?style=flat-square&logo=github)](https://github.com/chaos4455)
