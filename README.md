@@ -334,3 +334,20 @@ Meu objetivo é fornecer um portfólio que não apenas exiba minhas habilidades 
 - ![DBeaver](https://img.shields.io/badge/-DBeaver-2D5A72?logo=dbeaver&logoColor=white)  
   Eu utilizo DBeaver para gerenciar e consultar bancos de dados, trabalhando com uma ampla gama de sistemas de banco de dados e facilitando a administração e análise de dados.
 
+# **Elias Andrade** 💻🚀
+
+Construído com muito amor e dedicação ❤️  
+Elias Andrade - 23/10/2024 - Maringá, Paraná  
+**Isadora, te amo filha do meu coração!** 👨‍👧💖  
+
+### "Não há conhecimento que não seja poder." 💎🦂
+
+## Conecte-se comigo:
+- [LinkedIn](https://www.linkedin.com/in/itilmgf)  
+- [GitHub](https://github.com/evolucaoit)  
+
+## Repositórios:
+- [Chaos4455](https://github.com/chaos4455) 🎲💡  
+- [Replika AI Solutions](https://github.com/replika-ai-solutions?tab=repositories) 🤖🛠️  
+
+Feito com carinho e uma pitada de tecnologia, rsrsrs. 🚀❤️
