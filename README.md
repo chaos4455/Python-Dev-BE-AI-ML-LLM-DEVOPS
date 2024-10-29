@@ -1,5 +1,7 @@
 # 🐍 **Python-Dev-BE-AI-ML-LLM-DEVOPS** 🚀
 
+![1c306eea-d1f0-45dd-abe9-fa507604ed3f](https://github.com/user-attachments/assets/fccf5f4f-e441-4649-a202-14f974af632c)
+
 ## 🌟 Destaques do Repositório
 
 - **Desenvolvimento Backend**: Projetos focados em APIs, arquitetura de sistemas e soluções backend com Python.
