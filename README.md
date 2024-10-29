@@ -38,7 +38,7 @@ Para projetos específicos relacionados a Python, visite o repositório [Projeto
 [![GitHub](https://img.shields.io/badge/GitHub-Elias%20Andrade-181717?style=flat-square&logo=github)](https://github.com/chaos4455)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elias%20Andrade-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/itilmgf)
 
-# 🚀 **Prometheus Business AI Copilot**: Interface Web para Chatbots e Copilotos IA
+# 🚀 **Prometheus Business AI Copilot**: Interface Web para Chatbots e Copilotos IA *OpenSource 
 
 🔗 **Repositório**: [Prometheus-Chatbot-WEB-Interface](https://github.com/chaos4455/Prometheus-Chatbot-WEB-Interface)  
 🎨 **Tecnologias Utilizadas**: **React**, **Node.js**, **Tailwind CSS**  
@@ -48,7 +48,12 @@ Para projetos específicos relacionados a Python, visite o repositório [Projeto
 
 ![chrome_U5eS7lri0f](https://github.com/user-attachments/assets/b59312a8-74ab-4d12-8422-7f8434133cb9)
 
+# 🚀 **Prometheus Business AI Copilot multi agentic ecosystem **: Interface Web para Chatbots e Copilotos IA premium
 
+Versão completa com recursos de multi agentes autonomos 
+
+Imagem da interface principal : 
+![chrome_b6P43nirXr](https://github.com/user-attachments/assets/b776db9b-ba6a-4c20-855e-9e0b690d6377)
 
 ## Sobre Este Repositório
 
