@@ -95,19 +95,6 @@ Meu objetivo é fornecer um portfólio que não apenas exiba minhas habilidades 
   - Scripts de monitoramento e logging com **Prometheus**, **Grafana** e **ELK Stack**.
 
 ---
-
-## 📦 **Conteúdos e Estrutura do Repositório**:
-
-| Diretório          | Descrição                                                                                   |
-|--------------------|---------------------------------------------------------------------------------------------|
-| 📂 **`backend/`**  | Scripts e exemplos para desenvolvimento de APIs RESTful e microserviços em Python.           |
-| 📂 **`ml-ai/`**    | Projetos de machine learning, IA generativa, e análises de dados.                           |
-| 📂 **`llm/`**      | Implementações e experimentos com modelos de linguagem de grande porte.                     |
-| 📂 **`devops/`**   | Arquivos de configuração, scripts de automação, e exemplos de CI/CD.                        |
-| 📂 **`docs/`**     | Documentação detalhada, guias de uso, e referências adicionais para cada projeto.            |
-| 📂 **`tests/`**    | Conjunto abrangente de testes unitários e de integração para garantir a qualidade do código. |
-
----
 ## 🧰 **Ferramentas e Tecnologias**
 
 ### Linguagens de Programação
