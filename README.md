@@ -38,6 +38,26 @@ Para projetos específicos relacionados a Python, visite o repositório [Projeto
 [![GitHub](https://img.shields.io/badge/GitHub-Elias%20Andrade-181717?style=flat-square&logo=github)](https://github.com/chaos4455)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elias%20Andrade-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/itilmgf)
 
+## 🎨 **Streamlit Mockups, POCs & MVPs** 🌐💻
+[![Repo](https://img.shields.io/badge/GitHub-Streamlit--IA--Projects--2024-blue?style=for-the-badge&logo=github)](https://github.com/chaos4455/Streamlit-IA-Projects-2024)
+> Explore uma variedade de **mockups, POCs e MVPs** criados com Streamlit, incluindo aplicações em **machine learning**, **processamento de vídeos**, **IA**, **chatbots** e **automação de tarefas**.
+
+💡 **Em 2024**, desenvolvi mais de **600 microaplicações** funcionais utilizando **Python**, **Streamlit** e **Google Gemini**, projetadas para várias necessidades e setores! Este repositório demonstra minha versatilidade e capacidade de prototipagem rápida em diversos domínios.
+
+### 🛠️ Tecnologias e Funcionalidades
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Prototipagem-red?style=flat-square&logo=streamlit)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-brightgreen?style=flat-square&logo=ai)
+![Google Gemini](https://img.shields.io/badge/Google-Gemini-4285F4?style=flat-square&logo=google)
+![Prototipagem](https://img.shields.io/badge/Prototipagem-Rápida-orange?style=flat-square&logo=fastapi)
+
+🚀 **Funcionalidades**:
+- **Mockups Interativos** 🖥️
+- **POCs com dados reais** 📊
+- **MVPs para IA e Automação** 🤖
+
+🔗 **Confira o repositório completo** e veja o que está em evolução!
+
 # 🚀 **Prometheus Business AI Copilot**: Interface Web para Chatbots e Copilotos IA *OpenSource 
 
 🔗 **Repositório**: [Prometheus-Chatbot-WEB-Interface](https://github.com/chaos4455/Prometheus-Chatbot-WEB-Interface)  
