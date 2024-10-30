@@ -39,7 +39,10 @@ Para projetos específicos relacionados a Python, visite o repositório [Projeto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elias%20Andrade-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/itilmgf)
 
 ## 🎨 **Streamlit Mockups, POCs & MVPs** 🌐💻
+Clique no botão abaixo pra conferir.
+
 [![Repo](https://img.shields.io/badge/GitHub-Streamlit--IA--Projects--2024-blue?style=for-the-badge&logo=github)](https://github.com/chaos4455/Streamlit-IA-Projects-2024)
+
 > Explore uma variedade de **mockups, POCs e MVPs** criados com Streamlit, incluindo aplicações em **machine learning**, **processamento de vídeos**, **IA**, **chatbots** e **automação de tarefas**.
 
 💡 **Em 2024**, desenvolvi mais de **600 microaplicações** funcionais utilizando **Python**, **Streamlit** e **Google Gemini**, projetadas para várias necessidades e setores! Este repositório demonstra minha versatilidade e capacidade de prototipagem rápida em diversos domínios.
