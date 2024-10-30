@@ -38,6 +38,37 @@ Para projetos específicos relacionados a Python, visite o repositório [Projeto
 [![GitHub](https://img.shields.io/badge/GitHub-Elias%20Andrade-181717?style=flat-square&logo=github)](https://github.com/chaos4455)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elias%20Andrade-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/itilmgf)
 
+
+# 📊 Ai-Data Agent Analysis 🔍
+![License](https://img.shields.io/github/license/chaos4455/Ai-Data_Agent_Analysis?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
+![Automação IA](https://img.shields.io/badge/Automação%20IA-Data%20Analytics-red?style=for-the-badge&logo=google)
+![Google Gemini](https://img.shields.io/badge/Google-Gemini-yellow?style=for-the-badge&logo=google)
+![TTS](https://img.shields.io/badge/Edge-TTS-success?style=for-the-badge&logo=microsoft)
+
+### 🤖 Descrição do Projeto
+O **Ai-Data Agent Analysis** é uma automação completa de Inteligência Artificial e Data Analytics, criada para transformar dados complexos em relatórios de linguagem natural falada, facilitando o entendimento para qualquer pessoa! Este projeto é ideal para quem busca explorar as capacidades de **IA aplicada** e **análise de dados automatizada** em processos simplificados e eficientes.
+
+🔹 **Transformação e Conversão de Dados**: Leitura de uma planilha e conversão em um `DataFrame`.  
+🔹 **Processamento de IA Avançado**: Envio dos dados ao **Google Gemini** para análise de alto nível.  
+🔹 **Relatório em Fala Natural**: Geração de uma resposta em áudio (`MP3`) usando o **Edge TTS**, resultando em um relatório de fácil entendimento.
+
+### 🚀 Como Funciona
+1. **Carregamento dos Dados**: Leitura de planilhas e formatação em texto e `DataFrame`.
+2. **Análise via IA**: Processamento dos dados com o Google Gemini.
+3. **Relatório em Áudio**: Conversão das respostas em uma narração realista em MP3.
+
+### 📂 Estrutura do Repositório
+- **`data/`**: Contém os exemplos de planilhas e dados de entrada.
+- **`analysis/`**: Funções principais para a análise dos dados.
+- **`tts/`**: Scripts para conversão de texto em fala.
+- **`reports/`**: Relatórios finais em formato MP3.
+
+### 💻 Tecnologias Utilizadas
+- **Python** para scripts e manipulação de dados.
+- **Google Gemini** para processamento de IA.
+- **Edge TTS** para conversão de texto em áudio.
+
 ## 🎨 **Streamlit Mockups, POCs & MVPs** 🌐💻
 Clique no botão abaixo pra conferir.
 
